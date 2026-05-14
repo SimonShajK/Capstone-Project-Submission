@@ -5,8 +5,3 @@ publisher market share, pricing dynamics, and temporal publishing trends. By emp
 for visualization), the workflow is documented systematically. The logic applied throughout this analysis prioritizes data integrity first—ensuring clean inputs—before
 moving into complex visual interpretations. This approach allows for a transparent, reproducible methodology where every conclusion is strictly grounded in quantitative 
 evidence.
-Key Objectives:
-•	Market Trends: Identify which genres and formats (e.g., Tankobon vs. Digital Webtoons) dominate the current publishing landscape.
-•	Quality Factors: Determine if there is a statistical correlation between page counts, volume lengths, and reader ratings.
-•	Demographic Insights: Analyze how age ratings and languages affect the global distribution and success of comic series.
-•	Actionable Insights: Provide data-driven recommendations for publishers to optimize their content strategy based on historical performance data.
